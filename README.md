@@ -1,4 +1,9 @@
-EggTimer - Final Code 
+https://developer.android.com/codelabs/advanced-android-kotlin-training-notifications をやる
+
+
+----
+
+EggTimer - Final Code
 ============================================================================
 
 Solution code for Advanced Android with Kotlin Codelab 
