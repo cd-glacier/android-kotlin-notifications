@@ -73,6 +73,7 @@ class EggTimerFragment : Fragment() {
                 lightColor = Color.RED
                 enableVibration(true)
                 description = "Time for breakfast"
+                setShowBadge(false)
             }
 
             val notificationManager = requireActivity().getSystemService(
